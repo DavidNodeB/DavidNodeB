@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DavidNodeB
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning DSA 
 - 📫 How to reach me email or message me or github
 
 <!---
