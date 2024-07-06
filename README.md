@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DavidNodeB
 - 👀 I’m interested in Computer Science
+- 🥞 FullStack Development is my main focus
 - 🌱 I’m currently learning DSA 
 - 📫 How to reach me email or message me or github
 
